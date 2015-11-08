@@ -1,7 +1,7 @@
 {
   "name": "estagio",
   "version": "0.0.1",
-  "description": "Aplicativo Web",
+  "description": "estag.io é um Web APP que permite o recrutamento de estudantes universitários em empresas atuantes mercado",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
