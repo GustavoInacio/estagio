@@ -9,6 +9,7 @@
   "author": "Vinícius Ribeiro",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "express": "~4.8.8"
+    "express": "~4.8.8",
+    "ejs": "~0.8.8"
   }
 }
